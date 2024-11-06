@@ -1,2 +1,2 @@
-<ver>2</ver>
+<ver>1</ver>
 <hintver></hintver>
